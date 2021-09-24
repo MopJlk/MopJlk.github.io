@@ -1,7 +1,4 @@
-body {
-  text-align: center;
-}
-
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 p {
   padding: 1.5em 0em;
   position: absolute;
@@ -77,7 +74,7 @@ span {
     width: 1730px;
   }
 }
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 
 body {
  background: rgb(247, 242, 242);
